@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_notifications" />
+    <!--<item-->
+        <!--android:id="@+id/bin"-->
+        <!--android:icon="@drawable/bin1"-->
+        <!--android:title="Bahasa Indonesia" />-->
+
+    <!--<item-->
+        <!--android:id="@+id/mat"-->
+        <!--android:icon="@drawable/mat2"-->
+        <!--android:title="Matematika" />-->
+
+    <!--<item-->
+        <!--android:id="@+id/ipa"-->
+        <!--android:icon="@drawable/ipa3"-->
+        <!--android:title="IPA" />-->
+
+    <!--<item-->
+        <!--android:id="@+id/big"-->
+        <!--android:icon="@drawable/big4"-->
+        <!--android:title="Bahasa Inggris" />-->
+
+</menu>
